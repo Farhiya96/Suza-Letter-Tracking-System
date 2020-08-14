@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+head{
+	width: 1170px;
+	margin: auto;
+}
+header{
+background:url("img/suza.jpg");
+height: 100vh;
+background-size: cover;
+background-position: center center;
+position: relative;
+}
+ ul li{
+	list-style-type: none;
+	display: inline-block;
+
+}
+
+

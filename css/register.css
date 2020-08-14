@@ -1,0 +1,38 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-image: url(img/bg.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: new time roma;
+}
+h1{
+	font-size: 40px;
+	color: gray;
+	margin-top: 20px;
+	margin-bottom: 30px;
+
+}
+label{
+font-size: 18px;
+margin-top: 10px;
+font-weight: normal;
+}
+
+small{
+	font-size: 18px;
+	color: gray;
+}
+option{
+	color: #666;
+}
+.btn-info{
+	margin-left: 150px;
+	width: 180px;
+	font-size: 19px;
+	border-radius: 1000px;
+}
+
+
